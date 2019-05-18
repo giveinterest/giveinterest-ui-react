@@ -1,0 +1,10 @@
+FROM node:8.16.0-jessie
+WORKDIR /
+
+COPY ./ /
+
+RUN yarn build
+
+
+
+

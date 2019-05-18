@@ -1,0 +1,5 @@
+FROM node:8.16.0-jessie
+CMD mkdir /app
+WORKDIR /app
+RUN npm install
+CMD npm start
