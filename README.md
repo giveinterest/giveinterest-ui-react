@@ -1,4 +1,5 @@
-
+contact:
+  giveinterest@protonmail.com
 
 todo: if not owner, don't show withdraw button.  dont show ChangeReceiver.  
 todo: sum all tokens of all funds.  produce: total of each token, total all tokens in dai, eth
