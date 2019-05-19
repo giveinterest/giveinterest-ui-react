@@ -11,6 +11,12 @@ todo: dont refresh whole page after transaction
   - factory: 0x188797eC8daA7Ba50043aD7894CC3BF29953fA39
   - instance: 0x2346c6d59c3278729fbb3d472b6b901d2defe1bd
 
+UI deployed to:
+https://ipfs.io/ipfs/QmX7n9WrmCpMiPHjz8CVNtreYWM7CAr4mw2ZDDqJFRNaCo/
+
+Sometimes page needs to be manually reloaded after selecting a fund from list.
+
+
 template:
 https://etherscan.io/address/0xf2a25ea7b8c600a56bc4bf46a70390aea1dc0315#code
 
